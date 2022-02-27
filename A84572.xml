@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An earnest request to Mr. John Standish, &amp;c. Upon occasion of a sermon of his preached at White-Hall, before His Majesty. September 26. 1675. From Patropolis, directly over against Irenopolis</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84572</idno>
+            <idno type="STC">Wing E98A</idno>
+            <idno type="STC">ESTC R228649</idno>
+            <idno type="EEBO-CITATION">99897436</idno>
+            <idno type="PROQUEST">99897436</idno>
+            <idno type="VID">133169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An earnest request to Mr. John Standish, &amp;c. Upon occasion of a sermon of his preached at White-Hall, before His Majesty. September 26. 1675. From Patropolis, directly over against Irenopolis</title>
+               </titleStmt>
+               <extent>[4], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page on second leaf.</note>
+                  <note>A1r blank. Eratta slip pasted on A1v.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2496 lacks errata slip.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Standish, John, d. 1686 --  Early works to 1800.</term>
+               <term>Church of England --  Doctrines --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133169:1"/>
+            <p>AN Earneſt Requeſt TO M<hi rend="sup">R.</hi> 
+               <hi>JOHN STANDISH,</hi> &amp;c.</p>
+            <p>Upon Occaſion of a SERMON of his Preached at <hi>WHITE-HALL,</hi> before His MAJESTY.</p>
+            <p>September 26. 1675.</p>
+            <p>FROM PATROPOLIS, Directly over againſt IRENOPOLIS.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133169:2"/>
+            <pb n="1" facs="tcp:133169:2"/>
+            <head>AN EARNEST REQUEST TO M<hi rend="sup">R.</hi> 
+               <hi>JOHN STANDISH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a Sermon of yours, which having flown up and down the City a Quarter of a Year, is at length come into the Countrey, and hath reached my meanneſs, who am one that very ſeldom ſees thoſe new Books that come abroad, but was Tempted by what I heard of your Diſ<g ref="char:EOLhyphen"/>courſe to ſend for it, and ſatisfy my ſelf about it: For I was very loath to believe Common-Fame, or to truſt to any mens jealous ſurmiſes, as I doubt you have
+<pb n="2" facs="tcp:133169:3"/> done; eſpecially ſince it would coſt me no great pains, nor much Money to ſee the truth my ſelf. It was a good while before I could procure it; but when it came, and I had Read it over, I was ſoon convinced that you are not wronged, however you may have wronged others. For I found there ſuch an heavy, nay Bloody Accuſa<g ref="char:EOLhyphen"/>tion of your Brethren, that it raiſed a trouble in my mind, beyond what you, (who enjoy your eaſe in a ſweet Univerſity-Retirement) can imagine. So great it was that I could not Sleep till I had expreſſed my Reſentment of it; which moved me immediately to take my Pen, and pub<g ref="char:EOLhyphen"/>lickly declare the ſenſe of many honeſt men, with whom I diſcourſes concern<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>They are amaz'd, Sir. To think in what condition this poor Church and King<g ref="char:EOLhyphen"/>dom is, if all that you ſay be true; or if it prove a Slander<g ref="char:punc">▪</g> Either way they are aſtoniſhed, to hear from <hi>White-Hall</hi>-Pulpit, either that this Church nouriſhes ſuch Vi<g ref="char:EOLhyphen"/>pers in its Boſom as you have given notice
+<pb n="3" facs="tcp:133169:3"/> of; or, if your notice be falſe, that any man ſhould have the Face to appear there; and Spit ſuch Venemous words againſt his in<g ref="char:EOLhyphen"/>nocent Brethren. For you tell his Majeſty that there are certain men, who would <hi>Supplant Chriſtian Religion with Natural Theology, and turn the Grace of God into a Wanton notion of Morality; who impiouſly deny both our Lord and his Holy-Spirit; who make Reaſon, Reaſon, Reaſon their only Tri<g ref="char:EOLhyphen"/>nity; and Preach up Natural and Moral Re<g ref="char:EOLhyphen"/>ligion without the Grace of God, and Faith in Chriſt. The Fruits and conſequents of whoſe Doctrines are, that there is no ſuch thing as Supernatural Grace; That every man must be his own Saviour, or he is Damn'd for ever,</hi> &amp;c. And theſe <hi>Deceiptful workers,</hi> theſe <hi>falſe Apoſtles,</hi> (you would have His Majeſty and the Biſhops think) are crept in among us. Elſe you have laid out your pains and Oyle (to uſe your own Phraſe <hi>p.</hi> 12.) to as little purpoſe as they <hi>that ſpend their Breath in declaiming againſt Sins quite out of faſhion</hi> &amp;c. And your Sermon would have ſerved better, and been more proper for
+<pb n="4" facs="tcp:133169:4"/> the ſwaggering <hi>Polanders</hi> (you ſpeak of p. 28.) then the Court of <hi>England.</hi> You are an Embaſſador, no doubt, <hi>Of more than Com<g ref="char:EOLhyphen"/>mon Prudence, Sagacity, and Judgement, one that underſtands his errand throughout</hi> (as your words are, <hi>p.</hi> 10.) And thefore, it is to be preſumed, would not give a Prince and his Court a falſe Alarm, nor be ſo imper<g ref="char:EOLhyphen"/>tinent as to trouble that great Aſſembly with your intreaties, and <hi>Beſeechings to beware</hi> of men who are no where to be found among us; nor have expreſſed your fears <hi>leaſt they grow the only Divines in vogue by the next Age;</hi> nay, that we may <hi>live to ſee our youth trained up in the</hi> Cracovian <hi>Catechiſm,</hi> unleſs you intended they ſhould think, that they are at work already in our Church to ſupplant Chriſtianity, batter down the Tri<g ref="char:EOLhyphen"/>nity, and exalt Nature, Rreaſon and Morality above the Grace of God, and Faith in Chriſt.</p>
+            <p>It is no leſs charge than this which you have brought againſt ſome of our Preachers. A Charge which contains Crimes of ſo high a Nature, that either you, or they whom you mean, deſerve the ſevereſt puniſhment.
+<pb n="5" facs="tcp:133169:4"/> Who they are you particularly aim at, I am ignorant; but I ſomething wonder that you are not called upon by the whole Body of the <hi>London</hi> Clergy, who are moſt likely to be concerned in this matter, to interpret your meaning, and declare who theſe Peſts are, by whom the Church is endangered. For whilſt the Charge remains thus General, and no body is named, the very beſt of them ſhall be branded by malice, as occa<g ref="char:EOLhyphen"/>ſion ſerves, with theſe fearful Crimes. There are many Calumnies, I know, which a wiſe man ſhould rather ſlight then take any notice of: But there are others of ſuch a nature, that they ought not to be de<g ref="char:EOLhyphen"/>ſpiſed; but of which the greateſt men in the Church have ever endeavoured to clear themſelves. You are not ignorant I ſup<g ref="char:EOLhyphen"/>poſe of that which ſome Lay-men under<g ref="char:EOLhyphen"/>ſtand very well; how St. <hi>Hierom</hi> and St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> are concerned to purge themſelves, when leſſer Crimes then Hereſie are object<g ref="char:EOLhyphen"/>ed to them. And therefore ſince you en<g ref="char:EOLhyphen"/>deavour to fix even this horrid Brand on ſome or other of our Clergy, and leave us
+<pb n="6" facs="tcp:133169:5"/> at liberty to ſuſpect any body, becauſe you name no body; there is none of them but has reaſon to ask, as the Apoſtles did our Saviour, when he told them one of them ſhould betray him, Sir, <hi>is it I? is it I?</hi>
+            </p>
+            <p>Speak, Sir, for Gods ſake, though they think fit to be ſilent, and ſay nothing; ſpeak, and tell us who the men are, on whom you have ſet ſo black a Character. You are bound to anſwer, and give us ſome account of it, both for the ſake of us poor Lay-men, and for the ſake of the reſt of your Brethren.</p>
+            <p>Firſt we of the Layety have reaſon to de<g ref="char:EOLhyphen"/>mand of you who they are, that we may carefully avoid them, and preſerve our ſelves from being miſsled by them. As you love the ſalvation of all men, which now the Church prayes, in this <hi>Ember-week,</hi> its Miniſters may ſet forward; do not deny us this requeſt. For we poor Souls are in a dangerous caſe, if we follow thoſe, with ſuch veneration as is due to the Miniſters of Chriſt, who carry all theſe Peſtilent Hereſies
+<pb n="7" facs="tcp:133169:5"/> in their Breaſts. They will not fail to in<g ref="char:EOLhyphen"/>ſinuate them into us, when they have once inſinuated themſelves into our eſteem and affection. And they cannot eaſily miſs of that, ſince you tell us they are men whoſe Lives are ſpecious, that appear outwardly very innocent, and can carry matters ſlily, <hi>Amuſing men with other fears, while they are pecking at the foundation of our Faith with their Axes and Hammers,</hi> that is (as you in<g ref="char:EOLhyphen"/>terpret it) <hi>With their great Blaſphemies, and leſs Criticiſmes.</hi> We have the greater rea<g ref="char:EOLhyphen"/>ſon to preſs you to diſcover theſe cloſe Hy<g ref="char:EOLhyphen"/>pocrites, as you call them, who are ever pecking with thoſe dangerous damnable Tooles, and yet make no noiſe. For we are in an apparent hazard, unleſs you help us<g ref="char:punc">▪</g> to be Couſened by ſuch cunning Crafts-Maſters: Who have the skill, I ſuppoſe, to put off theſe poiſonous Doctrines as cleanly, and with the ſame Artifice that they manage their lives. I muſt call to you therefore again, in the name of a number of Pious ſouls, that you would tell us, where theſe men live, and what are their
+<pb n="8" facs="tcp:133169:6"/> Names. For they are Devils it ſeems, who walk up and down in the ſhape of Saints. And therefore, again I beſeech you, if you have any compaſſion in you, let us know where they haunt, and who they are, leſt they draw us to Hell with them, perſwa<g ref="char:EOLhyphen"/>ding us all the while we are ſafe, and in the way to Heaven.</p>
+            <p>Which I alſo beg of you, for the ſake of your Brethren of the Clergy: who ſhall never be able to ſay any thing againſt the enemies of our Religion, but preſently the names of <hi>Socinians</hi> and <hi>Pelagians</hi> ſhall be caſt in their teeth; and a Sermon of Mr. <hi>J. Standiſh</hi> before the King ſhall be their voucher. For while you leave it uncertain who they are, any body, (as I ſaid) may be drawn with<g ref="char:EOLhyphen"/>in your Charge; and Malice and ill Na<g ref="char:EOLhyphen"/>ture will be ſure to fix your Character on thoſe, who ſhall moſt zealouſly oppoſe their Frenzies. This is no vain ſurmiſe; for to my knowledge there are thoſe who do God and his Church much ſervice, on whom ſome faſten this ſuſpition; though they are
+<pb n="9" facs="tcp:133169:6"/> as far from any ſuch Hereſies, as Mr. <hi>J. Standiſh</hi> himſelf. You have gratified thoſe at a very high rate who wiſh our deſtruction; for they are the men that cry up your Ser<g ref="char:EOLhyphen"/>mon, (being extream glad to hear ſo much ill of us) not the Children of the Church of <hi>England.</hi> I am ſure all that I have met withall in our parts are ſorry to ſee you doing the work of our enemies; whoſe art it hath ſtill been (as they learn from our Great Archbiſhop in his Book again <hi>Fiſher) To blaſt their oppoſers with the name of Heretick; for this ſerves to ſhrivle the Credit of the per<g ref="char:EOLhyphen"/>ſons, and the perſons once brought into con<g ref="char:EOLhyphen"/>tempt and ignominy, all the good they deſired in the Church, falls to duſt, for want of cre<g ref="char:EOLhyphen"/>ditable perſons to back and ſupport it.</hi>
+            </p>
+            <p>Speak out therefore, Good Sir, I again moſt earneſtly intreat you. Let not the Credit of any perſon be blaſted by your means. Leave not ignorance and Malice any longer to their gueſſes, who the men are you intend. But tell their names plain<g ref="char:EOLhyphen"/>ly, fix your Character upon the very per<g ref="char:EOLhyphen"/>ſons
+<pb n="10" facs="tcp:133169:7"/> that deſerve it: That ſo they may re<g ref="char:EOLhyphen"/>tain no longer any Credit to do miſchief, and the reſt of your Brethren may not loſe the credit which they have to do good. I know not by what rules you judge of your ſelf: But I ſhould not take my ſelf any longer to be a lover, of God of my Brethren, and of the Church, if I were in your caſe, and did not anſwer theſe reaſonable de<g ref="char:EOLhyphen"/>ſires. You can do it far more eaſily ſure, then you compoſed your Sermon. The mens names, I ſhould think, are at your fingers ends, ſince you are ſo well ac<g ref="char:EOLhyphen"/>quainted even with their cloſe Hypocriſie. Therefore by the next return of the Carrier, after this is come to your hand, they at <hi>London</hi> may expect to hear that you have ſent to the Preſs a liſt of thoſe men, who you ſuſpect at leaſt believe <hi>no Trinity, but Reaſon, Reaſon, Reaſon,</hi> and who believe <hi>there is no ſupernatural Grace,</hi> and that <hi>e<g ref="char:EOLhyphen"/>very man muſt be his own Saviour.</hi>
+            </p>
+            <p>And if you pleaſe, oblige us ſo far as to tell us by the way, why you ſcorn Reaſon
+<pb n="11" facs="tcp:133169:7"/> ſo much; which diſtinguiſhes you from a beaſt, and hath made you chooſe, I hope, to be a Chriſtian. For what was it that led you to the belief of Chriſtianity? Do you owe it only to your Education? Is there no Reaſon why you believe one God in three Perſons? We have been taught even by thoſe, whom you miſcall, and vilify that there is the greateſt Reaſon, or in your Phraſe, Reaſon, Reaſon, Reaſon for it. Becauſe God hath revealed himſelf in this manner, and the Church hath always thus underſtood him, and next to the voice of God, we reverence the voice of the Univerſal Church. Whom do you gratifie by de<g ref="char:EOLhyphen"/>crying Reaſon? Need you be remembred who they were that pretended the Spirit againſt all your learning, and would have pulled down the places, wherein you ac<g ref="char:EOLhyphen"/>quire it? What greater advantage could they have deſired then ſome ſuch Champions as you to have joyned with them, in kicking Reaſon out of doors: And then they had ſoon thrown you all out together with it.</p>
+            <pb n="12" facs="tcp:133169:8"/>
+            <p>But I am aſhamed to ſay any more of this. I believe you are able to give a good reaſon for any thing, unleſs it be of this, why you think or fear there are ſuch men among us as you have deſcribed. Why you ſaid it, many gueſs the reaſon: but what reaſon you have to think it true, none can imagine. And therefore deſire you would be pleaſed to tell us; that we may joyn with you in crying them down, as much as ſome do Reaſon. We will lift up our voice, and inſtead of <hi>Reaſon, Reaſon, Reaſon,</hi> we will cry as long as we have Breath, <hi>down with them, down with them, down with them;</hi> out of the Pulpit, even to the Ground.</p>
+            <p>But if you ſtop your Ears, and will not vouchſafe to hear or regard theſe earneſt Pe<g ref="char:EOLhyphen"/>titions which I ſend you in Print, and in the name of divers true Children of this Church; there will be great reaſon to think that there is a Guilt lyes at your door. little leſs foul then that you lay at other mens. And then the R. R. Fathers the Biſhops of the Church are moſt humbly be<g ref="char:EOLhyphen"/>ſeeched
+<pb n="13" facs="tcp:133169:8"/> that they would hear our cry, and call you to an account: making you open your mouth either to confeſs thoſe wicked men, or elſe to condemn your ſelf. I have heard that <hi>Apelles</hi> Painted <hi>Calumny,</hi> with many Companions, and ſtrong Sup<g ref="char:EOLhyphen"/>porters, ſuch as Envy, Ambition, Whiſ<g ref="char:EOLhyphen"/>pering, Back-biting, and Treachery, <hi>&amp;c.</hi> But behind her there followed <hi>Repentance,</hi> with her head hanging down to the earth, in a mournful habit, with tears and ſhame beholding Truth appearing afaroff. There are a great many think that they ſee a very bare-faced Calumny painted by Mr. <hi>J. Standiſh</hi> in his Sermon If they be not miſ<g ref="char:EOLhyphen"/>taken, her Companions and Upholders are very viſible. But they can as yet ſee no ſuch attendant waiting on her, and fol<g ref="char:EOLhyphen"/>lowing her as <hi>Repentance;</hi> no Tears, no Bluſhing, no Shame. The reaſon is they cannot tell how to make <hi>Truth</hi> appear; unleſs our Spiritual Fathers will be pleaſed to cauſe him to finiſh what he hasbegun, and to bring her forth.</p>
+            <pb n="14" facs="tcp:133169:9"/>
+            <p>We humbly therefore implore their help, and cry to them with as much earneſtneſs as conſiſts with the duty of Children, <hi>Search out the Truth, ſearch out the Truth,</hi> in this matter. It is your power R. Fathers to make this Gentleman Bluſh, if inſtead of a Sermon, he hath ſent a Libel into your Dioceſſes; as many fear he hath. But if he have not, you will not quite loſs your labour; for I hope you will be able, if he be found faithful, to put thoſe to ſhame whom he convicts of ſuch Hereſies. You ought, (with due Reverence to your High Place and Office be it ſpoken) to have ſo much care of the Flock committed to your Charge, as to make enquiry after ſuch Grievous Wolves as he deſcribes: Who is the only man, as far as I can learn, that knows them, and is able to inform you where they lurk. Let him be ſummoned therefore to appear be<g ref="char:EOLhyphen"/>fore you and required to do the Church of God ſo much ſervice, as to detect thoſe Wolves; that their Sheeps-Cloathing may be pulled off, and Mr. <hi>Standiſh,</hi> not they paſs for innocent.</p>
+            <pb n="15" facs="tcp:133169:9"/>
+            <p>He may be willing perhaps to do that privately to your Lordſhips, which he will not do openly to the World, give in a liſt, that is, of thoſe mens Names who deprave the Chriſtian Religion among us by thoſe fore-named Hereſies. There is the greater reaſon he ſhould do it, becauſe he pretends cauſe to fear, leaſt <hi>we live to ſee our youth</hi> (unleſs effectual care be taken) <hi>trained up in the Cracovian Catechiſm,</hi> inſtead of that of the Church of <hi>England.</hi> A ſigne that he thinks theſe Peſtilent Hereticks very nume<g ref="char:EOLhyphen"/>rous; unleſs he and his partakers (if he have any) have inſtructed their youth ſo ill and ſuffered them to be ſo corrupted, that they will be as ready to catch any infectious Doctrines, as ſome bodies do the Plague. Call upon him therefore to let you know where theſe Peſts are: Let not ſuch a blot lye upon this Church, over which God hath made you Overſeers, as either they or he have caſt upon it. This will be the moſt effectual care you can take (which he be<g ref="char:EOLhyphen"/>ſeeches from you as well as I) to prevent this evil from over-ſpreading us. It will do
+<pb n="16" facs="tcp:133169:10"/> more good then his preaching, if he will be perſwaded to make a diſcovery of theſe dangerous men to you.</p>
+            <p>Whom we beſeech you to examine, ſift, and try if they be found guilty, let them be expelled the Church as they deſerve, and ſuffer ſuch puniſhment as the Law inflicts. I am no Advocate for them, nor ſhall I beg for the leaſt mercy or mitigation, if you proceed in the moſt rigorous manner with them: Being as great a ſtranger to their Here<g ref="char:EOLhyphen"/>ſies as I am a ſtranger to Mr. <hi>Standiſh,</hi> whoſe face I never ſaw. And therefore I hope none will ſo much as fancy I have any ſpleen at him, when I move on the other ſide; that if no ſuch men can be found, then Mr. <hi>John Standiſh</hi> may be ſeverely puniſhed for his ſlander. Which is the greater, becauſe it is againſt Gods Prieſts, and before His Sacred Majeſty, and with ſo high a con<g ref="char:EOLhyphen"/>fidence, from a man that knows his duty better. Let not this man go away without ſome ſpecial mark either of your kindneſs, or of your ſeverity. If he can produce theſe <hi>An<g ref="char:EOLhyphen"/>titrimitarian</hi>
+               <pb n="17" facs="tcp:133169:10"/> and other Hereticks, let him be preferred to thoſe Dignities, which per<g ref="char:EOLhyphen"/>haps <hi>A. B. C. D.</hi> and I do not know who enjoy. But if there be none of this ſtamp that can be produced, then let Mr. <hi>John Standiſh</hi> be puniſhed (I will not ſay as the old Law requires, in the ſame manner that he would have ſerved others) but with the loſs, at leaſt, of his Chaplains place, which he hath ſo notoriouſly abuſed. Uſe your beſt endeavours that he may never more appear before His Majeſty: But be put rather to ſome open ſhame for defame<g ref="char:EOLhyphen"/>ing thoſe ſo boldly and publiquely, who piouſly apply their endeavours, it's like, to ſerve God and his Church with much labour and induſtry; whilſt ſuch as he (if he have any followers) ſit ſtill, and do little, as far as appears, but ſtudy invectives a<g ref="char:EOLhyphen"/>gainſt their Brethren.</p>
+            <p>Pardon this Vehemence I moſt humbly beſeech your Goodneſs, which I doubt not is equal to your Wiſdom and prudence. If I have been too bold in preſſing that, which
+<pb n="18" facs="tcp:133169:11"/> I conceive to be the duty of my Superiours, and ſhall hear that this Paper is condemned by you; I will condemn it too in my own private thoughts, and beg pardon of Al<g ref="char:EOLhyphen"/>mighty God for my raſhneſs. Though I think I have great reaſon for what I have done, yet I will not be ſo preſumptuous as to oppoſe my thoughts to yours: But ſhall condemn that my ſelf, which you ſhall judge imprudently done, or not with ſufficient modeſty.</p>
+            <p>I am in good earneſt, and very ſincere in this Profeſſion; which perhaps Mr. <hi>Standiſh</hi> may not think unfit to imitate. For if you my Lords, will not be pleaſed to concern your ſelves in this Calumny, (as all that I meet withall think they have reaſon to call it) then I muſt return back to him, and earneſtly beſeech him to call himſelf to a ſtrict account, and examine upon what grounds he hath indicted his Brethren of, at leaſt the ſuſpition of ſuch foul Crimes, as if they be true, make them moſt deteſtable. Let him ask himſelf what moved him to it.
+<pb n="19" facs="tcp:133169:11"/> Was it pure zeal for the glory of God, and the good of ſouls? or was it Envy at the Reputation which ſome men have got, by their diligent preaching and writing, in the Church of God: and fear leſt they ſhould ſtep into thoſe preferments, of which per<g ref="char:EOLhyphen"/>haps he thinks himſelf far more worthy? I accuſe him of nothing of this nature, be<g ref="char:EOLhyphen"/>cauſe I know him not; but it will be ſafe for him to ſearch his heart, whether ſomething of theſe or ſuch like ill affections, do not lurk more ſecretly there, then he fancies <hi>Socimaniſm</hi> doth in others. I will not put him upon any enquiries about the reſt of his Sermon (though ſome I perceive would fain be ſatisfied about many parti<g ref="char:EOLhyphen"/>culars beſides this) let him only ask him<g ref="char:EOLhyphen"/>ſelf again, what aſſurance he hath that he did not wrong the innocent, in this part of it: For a number of grave perſons, whom I have ſpoken withall, and that know the world better then he, are very confident, upon particular ſearch that they have made, there are no ſuch men as he hath deſcribed, among our Clergy. And if he find that
+<pb n="20" facs="tcp:133169:12"/> his declamation was grounded on weak ſur<g ref="char:EOLhyphen"/>miſes, and there is nothing ſubſtantial to ſupport ſo dreadful an accuſation; let him condemn himſelf for a grievous offender. Let him fall upon his knees and beg Gods pardon: let him inflict that penance on himſelf, which his fault deſerves, though the Church ſuffer him to eſcape without any Cenſure. It will be too much perhaps to expect that he ſhould make ſatisfaction to his Brethren whom he hath wronged, by open confeſſion under his hand, that he was raſh and too eaſie to believe evil of o<g ref="char:EOLhyphen"/>thers (to uſe no harſher word) If I were as they, I ſhould take his ſilence for ſuch a confeſſion; and look upon him as a man truly ſorry for his ſin, if after this he hold his. <add>Peace</add>
+            </p>
+            <p>I have but one word to add to him, and a word to ſome others, who I hear are prone to entertain the ſame Jealouſies, and then I have done.</p>
+            <p>Mr. <hi>Standiſh,</hi> let me beſeech you once
+<pb n="21" facs="tcp:133169:12"/> more to conſider (together with all that hath been ſaid) how rude and barbarous a thing it was for you who live in the ſhade, as I may ſay, in a cool delightful retirement, to come out of it meerly to revile thoſe men, many of which it is thought, bear the Heat and Burden of the day. If you had not ac<g ref="char:EOLhyphen"/>cuſed them of Hereſie, (let that be ſet aſide) yet you cannot but think it a piece of very ill nature, when you ſeriouſly re<g ref="char:EOLhyphen"/>flect upon it, for you who live at your eaſe, and enjoy a pleaſant life in a Colledge, to appear with your Flouriſhes before the Court, and there vapour over your deſerving Brethren, thoſe Painful Laborious, men who have the conſtant Cure of Souls, and con<g ref="char:EOLhyphen"/>tend in that ſtation with innumerable dif<g ref="char:EOLhyphen"/>ficulties. They have load, (one would think) enough upon them; you needed not have laid on an heavy load of Reproaches. They meet with enemies too many, it is very hard, that their Friends become their Enemies: they with whom they walk to the ſame Houſe of God in company, riſe up againſt them. This is bitter; and needs a deal of patience to bear it.</p>
+            <pb n="22" facs="tcp:133169:13"/>
+            <p>And the more, becauſe there are a ſort of men I hear, who as they have been prone to entertain theſe ſuſpitions, ſo will not ſuffer themſelves to be diſpoſeſſed of them; notwithſtanding all that thoſe men, whom they aim at, have ſaid and done both in pub<g ref="char:EOLhyphen"/>lick and private, to purge themſeves, and all their acquaintance of all ſuch Hereſies, or any thing that looks like them. Theſe are perſons of a ſtrange diſpoſition, whoſe bare ſurmiſes muſt be believed againſt other mens downright proteſtations. They pretend it ſeems to ſee into the heart. They are not to be informed by words what their neigh<g ref="char:EOLhyphen"/>bours think; but they look into them, as they ſay Angels do into one anothers thoughts, by I know not what immediate intuition. There is no way to deal with theſe men: Patience is the only refuge in this caſe, together with ſerious appeals from them to the All-ſeeing God, who knows the hearts of thoſe that ſenſure (and what they aim at) as well as of thoſe that ſtand ſuſ<g ref="char:EOLhyphen"/>ſpected. And I am ſure ſome of thoſe whoſe names are endeavoured to be blaſt<g ref="char:EOLhyphen"/>ed,
+<pb n="23" facs="tcp:133169:13"/> addreſs themſelves to him, in the words of <hi>Suſanna. v. 42. O everlaſting God, that knoweſt the ſecrets, and knoweſt all things before they be; thou knoweſt that they have born Falſe witneſs againſt me, and behold I am condemned; where as I was never guilty of ſuch things as theſe men (though I hope not Malitiouſly) have invented againſt me,</hi> And <hi>the Lord</hi> who, as it there follows, <hi>heard her voice,</hi> will ſure hear theirs: and will <hi>make their righteouſneſs</hi> (to uſe the Pſalmiſts words) <hi>as clear as the light, and their juſt dealing as the noon day.</hi> Which will move many good men, <hi>To praiſe God with a lowd voice, who ſaves them that truſt in him.</hi> and teach even. you, Mr. <hi>Standiſh</hi> to learn that leſſon better, which you have often no doubt heard, 11. <hi>Eccleſ.</hi> 7. with which I ſhall conclude.</p>
+            <epigraph>
+               <q>Blame not before thou haſt examined the truth: underſtand firſt, and then rebuke.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133169:14" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
